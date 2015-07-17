@@ -22,7 +22,7 @@ A workflow for Alfred 2 that implements translation from any language to any oth
 It's based on PHP and not very complex to understand.
 
 ## How to install
-Just download and double click the [workflow file]()
+Just download and double click the [workflow file](https://github.com/vexus2/AlfredGoogleTranslateWorkflow/releases/download/v2.4.0/Google.Translate.For.Japanese.alfredworkflow)
 Say "yes" to import it into Alfred. Done!
 
 ## How to use

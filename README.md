@@ -30,8 +30,8 @@ Open Alfred and type "g" or "j".
 
 Alfred will show all the results that Google returned. Select the one that fits your situation best and the translated phrase will be copied to the clipboard.
 
-    e hello world // Will translate "Haus" from german to english.
-    j こんにちは 世界	// Will translate "Auto" from german to french
+    e hello world // Will translate "hello world" from english to japanese.
+    j こんにちは 世界	// Will translate "こんにちは 世界" from japanese to english
 
 When Google delivered the result, you can just copy the one you want to the clipboard by selecting it and pressing enter.
 
